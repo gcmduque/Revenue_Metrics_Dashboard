@@ -22,7 +22,7 @@ Click here for the [Project Documentation](https://docs.google.com/spreadsheets/
 <p align="justify"> From these improvements, we can now get a quick picture of the overall result of the performance for the year. From a glimpse, we understood that our top performer is Game 3 which comprised the majority of the revenue and as well as the total users. Other than that, we can also identify other key points over the year such as when the revenue peaked (Oct) and when it started to decline (Nov). From the data we know that Game 3 has the most users while on the other hand, it can be seen that the main reason for the decline is the increase in churned users in both Nov and Dec. These observations are vital as it tells us that Game 3 should be the primary focus of the resources and should be maintained and improved to keep generating revenue. </p>
 
 ### Data Source
-Revenue data were provided by GoIT as part of its course work.
+Revenue data were provided by [GoIT](https://goit.global/ph/) as part of its course work.
 
 ### Tools
 For this project, I used DBeaver (SQL) and Tableau for data processing and dashboard making.
