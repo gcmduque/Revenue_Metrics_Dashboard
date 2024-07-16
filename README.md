@@ -9,6 +9,8 @@
 - Tableau: Load and Tranform the data in the form of a dashboard.
 - Improvements: Apply changes in the dashboard that will help the audience in understanding the overall performance of the product (games)
 
+Click here for the [Project Documentation](https://docs.google.com/spreadsheets/d/1iBx2dPf3hEL9LBJfIcbVoNWqKaApKCwXc45ZnAzKB7U/edit?usp=sharing) to see the complete details.
+
 ### Dashboards
 - Initial Dashboard: [[Tableau Link]](https://public.tableau.com/views/DAProjectRevenueMetrics/Dashboard12?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Revenue_Metrics_Initial_Dashboard](https://github.com/user-attachments/assets/58820e22-3274-4eef-be3c-a894af4c2ab1)
@@ -30,5 +32,5 @@ For this project, I used DBeaver (SQL) and Tableau for data processing and dashb
 - SQL Query: Contains the SQL query to process the dataset.
 - SQL Query Output Data: Contains the output data.
 
-[Files](https://drive.google.com/drive/folders/1OtGA8b7Yn_TOXPmDG9n8J0w4abPSWBbk?usp=sharing)
+Click here to view the [Files](https://drive.google.com/drive/folders/1OtGA8b7Yn_TOXPmDG9n8J0w4abPSWBbk?usp=sharing).
 
